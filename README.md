@@ -5,8 +5,6 @@
   - :balloon: President of Sogang ICPC Team (20.12~)
   - :balloon: member of Sogang ICPC Team (20.3~)
   - :pushpin: member of Sogang RELEASE (20.3~)
-  - :pencil: [my blog](https://minigb.tistory.com)
-
 
 ### Awards
 - #### Personal Awards
