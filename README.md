@@ -1,7 +1,7 @@
 ### I am
 
   - 👩‍💻: interested in algorithm, data analyzing, and AI
-  - :unicorn: majoring Computer Science at Sogang University (20.3~)
+  - :unicorn: majoring in CSE at Sogang University (20.3~)
   - :balloon: President of Sogang ICPC Team (20.12~)
   - :balloon: member of Sogang ICPC Team (20.3~)
   - :pushpin: member of Sogang RELEASE (20.3~)
