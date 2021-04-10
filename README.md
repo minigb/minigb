@@ -30,14 +30,14 @@
 ### BOJ(Baekjoon Online Judge)
 - [minigimbob](https://www.acmicpc.net/user/minigimbob)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minigimbob)](https://solved.ac/minigimbob)
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minigimbob)](https://solved.ac/minigimbob)
 
 
 ### Codeforces
 - [minigimbob](https://codeforces.com/profile/minigimibob)
 
-[![CodeForces Profile](https://cf.leed.at?id=minigimbob)](https://codeforces.com/profile/minigimbob)
+  [![CodeForces Profile](https://cf.leed.at?id=minigimbob)](https://codeforces.com/profile/minigimbob)
 
 - [minigb](https://codeforces.com/profile/minigb)
 
-[![CodeForces Profile](https://cf.leed.at?id=minigb)](https://codeforces.com/profile/minigb)
+  [![CodeForces Profile](https://cf.leed.at?id=minigb)](https://codeforces.com/profile/minigb)
