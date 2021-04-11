@@ -21,7 +21,7 @@
 - #### Team Terra (with [nant0313](https://github.com/nant0313), [wbcho0504](https://github.com/1bin01))
   - 2020 ICPC Asia Seoul Preliminary Contest  **76th place**
   - 2020 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2020) - Div. 2  **1st place**🥇
-  - 2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2021 Winter)  **4th place**🥈
+  - 2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2021 Winter)  **4th place**🥉
   - IEEEXtreme 14.0  **416th place / :kr:1st**
 - #### Team MINI-CHO-BOB (with [djs100201](https://www.acmicpc.net/user/djs100201), [wbcho0504](https://github.com/1bin01))
   - Google Hash Code 2021 Online Qualification Round  **3,075th place / :kr:46th**
