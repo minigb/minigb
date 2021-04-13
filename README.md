@@ -5,7 +5,7 @@
   - :balloon: President of Sogang ICPC Team (20.12~)
   - :balloon: member of Sogang ICPC Team (20.3~)
   - :penguin: member of Sogang Release (20.3~)
-  - :sparkling_heart: :violin: :cupcake: :woman_cook: :baseball: :soccer: :ping_pong:
+  - :sparkling_heart: :violin: :cupcake: :woman_cook: :baseball: :soccer: :bowling: :ping_pong:🧘‍♀️ 
   - :pencil: [blog](http://minigb.tistory.com/)
 
 ## :trophy: Awards
