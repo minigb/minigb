@@ -7,19 +7,14 @@
   - :penguin: member of Sogang Release (20.3~)
   - :sparkling_heart: :violin: :cupcake: :woman_cook: :baseball: :soccer: :bowling: :ping_pong:🧘‍♀️ 
   - :pencil: [blog](http://minigb.tistory.com/)
+  - BOJ [minigimbob](https://www.acmicpc.net/user/minigimbob)
 
+    [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minigimbob)](https://solved.ac/minigimbob)
 
-## :sparkles: BOJ(Baekjoon Online Judge)
-- [minigimbob](https://www.acmicpc.net/user/minigimbob)
+  - Codeforces [minigimbob](https://codeforces.com/profile/minigimibob)
 
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minigimbob)](https://solved.ac/minigimbob)
+    [![CodeForces Profile](https://cf.leed.at?id=minigimbob)](https://codeforces.com/profile/minigimbob)
 
+  - Codeforces [minigb](https://codeforces.com/profile/minigb)
 
-## :sparkles: Codeforces
-- [minigimbob](https://codeforces.com/profile/minigimibob)
-
-  [![CodeForces Profile](https://cf.leed.at?id=minigimbob)](https://codeforces.com/profile/minigimbob)
-
-- [minigb](https://codeforces.com/profile/minigb)
-
-  [![CodeForces Profile](https://cf.leed.at?id=minigb)](https://codeforces.com/profile/minigb)
+    [![CodeForces Profile](https://cf.leed.at?id=minigb)](https://codeforces.com/profile/minigb)
