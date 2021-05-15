@@ -6,7 +6,7 @@
   - :balloon: member of Sogang ICPC Team (20.3~)
   - :penguin: member of Sogang Release (20.3~)
   - :sparkling_heart: :violin: :cupcake: :woman_cook: :baseball: :soccer: :bowling: :ping_pong:🧘‍♀️ 
-  - :pencil: [blog](http://minigb.tistory.com/)
+  - :pencil: [blog](http://www.minigb.io/)
   - BOJ [minigimbob](https://www.acmicpc.net/user/minigimbob)
 
     [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minigimbob)](https://solved.ac/minigimbob)
