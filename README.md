@@ -1,12 +1,8 @@
-## :sparkles: I am
+## :sparkles: Hi there!
 
-  - :unicorn: interested in algorithms, data analysis, and AI
-  - 👩‍💻 majoring in Computer Engineering at Sogang University (20.3~)
-  - :balloon: President of Sogang ICPC Team (20.12~)
-  - :balloon: member of Sogang ICPC Team (20.3~)
-  - :penguin: member of Sogang Release (20.3~)
-  - :sparkling_heart: :violin: :cupcake: :woman_cook: :baseball: :soccer: :bowling: :ping_pong:🧘‍♀️ 
+  - :unicorn: [About](https://www.minigb.io/136)
   - :pencil: [blog](http://www.minigb.io/)
+  - 👩‍💻 [LinkedIn](https://www.linkedin.com/in/minigimbob)
   - BOJ [minigimbob](https://www.acmicpc.net/user/minigimbob)
 
     [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minigimbob)](https://solved.ac/minigimbob)
