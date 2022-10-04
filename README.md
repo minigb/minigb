@@ -5,7 +5,8 @@
   - 👩‍💻 [LinkedIn](https://www.linkedin.com/in/minigimbob)
   - BOJ [minigimbob](https://www.acmicpc.net/user/minigimbob)
 
-    [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minigimbob)](https://solved.ac/minigimbob)
+    [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=minigimbob)](https://solved.ac/{handle})
 
   - Codeforces [minigimbob](https://codeforces.com/profile/minigimibob)
 
