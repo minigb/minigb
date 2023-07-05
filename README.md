@@ -7,9 +7,9 @@
   - 💘 [Baekjoon Online Judge](https://www.acmicpc.net/user/minigimbob)
 
     [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=minigimbob)](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=minigimbob)](https://solved.ac/minigimbob)
 
-  - 💝 [Codeforces](https://codeforces.com/profile/minigimibob)
+  - 💝 [Codeforces](https://codeforces.com/profile/minigimbob)
 
     [![CodeForces Profile](https://cf.leed.at?id=minigimbob)](https://codeforces.com/profile/minigimbob)
 
