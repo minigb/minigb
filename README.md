@@ -1,6 +1,6 @@
 ## Minhee Lee
   - [About](https://www.minigb.io/136)
-  - [LinkedIn](https://www.linkedin.com/in/minigimbob)
+  - [LinkedIn](https://www.linkedin.com/in/minigb)
   - [Blog](http://www.minigb.io/)
 
 ## Goals
