@@ -1,7 +1,7 @@
 ## Minhee Lee
-  - [About](https://www.minigb.io/136)
+  - [About](https://www.minigb.io/)
   - [LinkedIn](https://www.linkedin.com/in/minigb)
-  - [Blog](http://www.minigb.io/)
+  - [Google Scholar](https://scholar.google.co.kr/citations?user=TDlKjgcAAAAJ&hl=en&oi=sra)
 
 ## Goals
 - Contribute to bringing the equity, inclusion, and opportunities to all individuals by solving real-world large-scale problems.
