@@ -1,5 +1,5 @@
 ## Minhee Lee
-  - [About](https://www.minigb.io/)
+  - [About]([https://www.minigb.io/](https://sites.google.com/view/minigb/))
   - [LinkedIn](https://www.linkedin.com/in/minigb)
   - [Google Scholar](https://scholar.google.co.kr/citations?user=TDlKjgcAAAAJ&hl=en&oi=sra)
 
